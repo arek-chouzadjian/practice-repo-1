@@ -1,0 +1,10 @@
+---
+title: "Practice1.Rmd"
+author: "Arek Chouzadjian"
+date: "08-04-2021"
+output:
+  html_document:
+    bookdown::html_document2
+keep_md: true
+---
+
