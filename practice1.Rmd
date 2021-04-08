@@ -20,3 +20,7 @@ library(lubridate)
 
 
 This is where I would put tidy the data set. 
+
+
+
+This is where I would calculate yearly natural increase data. 
