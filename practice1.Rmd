@@ -17,7 +17,9 @@ library(tidyverse)
 library(lubridate)
 ```
 
-# Instructions  
+# Instructions
+
+## The following is the order in which to do things. 
 
 This is where I would put tidy the data set. 
 
