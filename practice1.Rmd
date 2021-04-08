@@ -19,3 +19,6 @@ library(lubridate)
 
 This is where I would load the data. 
 
+
+
+This is where I would group the data by year. 
