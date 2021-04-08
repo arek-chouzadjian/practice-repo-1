@@ -17,6 +17,7 @@ library(tidyverse)
 library(lubridate)
 ```
 
+<<<<<<< HEAD
 
 
 This is where I would put tidy the data set. 
@@ -24,3 +25,10 @@ This is where I would put tidy the data set.
 
 
 This is where I would calculate yearly natural increase data. 
+=======
+This is where I would load the data. 
+
+
+
+This is where I would group the data by year. 
+>>>>>>> Branch-1
