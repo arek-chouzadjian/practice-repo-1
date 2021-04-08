@@ -29,3 +29,5 @@ This is where I would group the data by year.
 
 This is where I would visualise the data. 
 
+This is where I would create a table of the data. 
+
