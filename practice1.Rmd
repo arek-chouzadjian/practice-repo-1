@@ -16,3 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(lubridate)
 ```
+
+
+
+This is where I would put tidy the data set. 
