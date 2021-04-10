@@ -41,3 +41,5 @@ This is where I would visualise the data.
 
 This is where I would write my conclusion. 
 
+This is some further additions to the .Rmd file. 
+
