@@ -46,3 +46,7 @@ This is some further additions to the .Rmd file.
 Branch-4: this is a commit to Branch-4
 
 These are some even further changes to my Rmd file. 
+
+Hello there, my name is Arek. 
+
+I am about to merge with a no-ff specification. 
